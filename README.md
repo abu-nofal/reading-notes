@@ -33,4 +33,4 @@ to get Success
 
 hello everybody i am ahmad nofal and i am graduated as a Mechanical engineer and i am so glade to be here with you guess
 
-@nofal 🇯🇴   [growth midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 🧠 [ahmad-nofal-github](https://github.com/abu-nofal:pray:)
+@nofal 🇯🇴   [growth midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 🧠 [ahmad-nofal-github](https://github.com/abu-nofal)
