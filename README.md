@@ -1,31 +1,36 @@
 # reading-notes
-its for code 102
 
-## welcome all to nofal shop 
+## What is a growth mindset?
+A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
-### we have some category
-1. men
-2. women 
-3. kids 
+By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
 
-### in men category we have :
-![men](https://lh3.googleusercontent.com/proxy/48PYiM8VwNUwb5vL6LOalNG5sON1cY8qIS51QjmjcMTsAMDNS03V_QeufKXGP_y9etjfFzGgb--eZz_HuZyZ3kqgImhtLojzQh4t9T_B2_dmUg)
-* t-shert
-* suit
-* shoes
+### Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
+![a fixed and a growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2-240x300.png)
 
-### in women category we have :
-![women](https://i.pinimg.com/originals/b6/53/54/b65354600a3870177b60990821d932ba.jpg)
-* suit 
-* bags
-* shoes
-* jens
+### Perseverance, gumption traps, and maintaining a growth mindset:
+1.Challenges 
+2.Obstacles
+3.Effort
+4.Criticism
+5.Success of others
 
-### in kids category we have :
-![kids](https://pic.i7lm.com/wp-content/uploads/2019/07/shof_80bb08fcaba05bc.jpg)
-- t-shert
-- shoes 
+### from my opinon about a growth midset:
 
-### if you want to contact with us just click into the link
-[nofal_shop](https://nofal.com) :+1: 🇯🇴
+1. I think that is no one have zero  problems 
+But there are two types of people
+Kind who faces this problem and is determined to solve the problem
+The other type did not face its problems
 
+2. i think if we had a Challenges a Obstacles
+we must face it and be strong and be strigule 
+to get Success
+
+3. I think that we should always nourish our mind with positive things
+
+![A prosperous mind](https://khabar-news.net/wp-content/uploads/2018/07/IMG-20180709-WA0009.jpg)
+
+
+hello everybody i am ahmad nofal and i am graduated as a Mechanical engineer and i am so glade to be here with you guess
+
+@nofal 🇯🇴 🧠  [growth midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) [ahmad-nofal-github](https://github.com/abu-nofal:pray:)
