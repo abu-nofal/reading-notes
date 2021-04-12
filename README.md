@@ -27,5 +27,5 @@ its for code 102
 - shoes 
 
 ### if you want to contact with us just click into the link
-[nofal_shop](https://nofal.com)
+[nofal_shop](https://nofal.com) :+1: 🇯🇴
 
