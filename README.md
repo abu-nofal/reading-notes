@@ -9,7 +9,7 @@ file name  | discription
 ----------| ---------
 [Readme.md](https://abu-nofal.github.io/reading-notes/) |intro of my github 
 [read01](https://abu-nofal.github.io/reading-notes/read01)| What is a growth mindset 
-[read02.md](https://abu-nofal.github.io/reading-notes/read02)| Setting up a Git Repository  
+[read02](https://abu-nofal.github.io/reading-notes/read02)| Setting up a Git Repository  
 [read03](https://abu-nofal.github.io/reading-notes/read03)|This section discusses a process that you can use when you are creating a new website
 
 
