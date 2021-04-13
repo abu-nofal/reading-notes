@@ -5,10 +5,16 @@
 > Table of Contents :
 
 
-Readme.md | read01.md | Read:02.md
-----------| --------- | ----------
-intro of my github | What is a growth mindset | Setting up a Git Repository
-[Readme.md](https://abu-nofal.github.io/reading-notes/) | [read01](https://abu-nofal.github.io/reading-notes/read01)| [Read:02.md](https://abu-nofal.github.io/reading-notes/Read:02)
+file name  | discription
+----------| ---------
+[Readme.md](https://abu-nofal.github.io/reading-notes/) |intro of my github 
+[read01](https://abu-nofal.github.io/reading-notes/read01)| What is a growth mindset 
+[read02.md](https://abu-nofal.github.io/reading-notes/read02)| Setting up a Git Repository  
+[read03](https://abu-nofal.github.io/reading-notes/read03)|This section discusses a process that you can use when you are creating a new website
+
+
+
+ 
 
 > i learnd to linking batween the two sites replit and github 
 and make change and save it every time a change any thing 
