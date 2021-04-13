@@ -88,7 +88,7 @@ sections.
 - Inline Elements
 - IFrames
 - Information About Your Pages
-  - <meta>
+  - meta 
 
 
 
