@@ -1,4 +1,4 @@
-#Setting up a Git Repository
+# Setting up a Git Repository
 
 after you sign up in git hub you should create up a repository to your work 
 to start the work.
@@ -22,14 +22,14 @@ After cloning a repository, files have tracked status and are unmodified because
 ### Tracking and Staging a New File
 
 1. Single File
-Track one file only by using the following format:
+  - Track one file only by using the following format:
 
-git add filename
+ > git add filename
 
 2. All Files
-Track all files in a repository by using the following command:
+ - Track all files in a repository by using the following command:
 
-$ git add *
+ > $ git add *
 
 ### Stashing Changes
 
