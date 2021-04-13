@@ -1,5 +1,4 @@
-
-
+h
 ## What is a growth mindset?
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort intelligence and talent are simply good starting points 
 A growth mindset is synonymous with a love of learning.
@@ -38,4 +37,6 @@ to get Success
 
 hello everybody i am ahmad nofal and i am graduated as a Mechanical engineer and i am so glade to be here with you guess
 
-               @nofal 🇯🇴   [growth midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 🧠 [ahmad-nofal-github](https://github.com/abu-nofal)
+
+@nofal 🇯🇴   [growth midset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+🧠 [ahmad-nofal-github](https://github.com/abu-nofal)
