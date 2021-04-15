@@ -11,8 +11,9 @@ file name  | discription
 [read01](https://abu-nofal.github.io/reading-notes/read01)| What is a growth mindset 
 [read02](https://abu-nofal.github.io/reading-notes/read02)| Setting up a Git Repository  
 [read03](https://abu-nofal.github.io/reading-notes/read03)|This section discusses a process that you can use when you are creating a new website
-
-
+[read04a](https://abu-nofal.github.io/reading-notes/read04a)| Dynamic web pages with JavaScript
+[read04b](https://abu-nofal.github.io/reading-notes/read04b)|how the computer works 
+[read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops 
 
  
 
