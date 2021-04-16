@@ -14,6 +14,9 @@ file name  | discription
 [read04a](https://abu-nofal.github.io/reading-notes/read04a)| Dynamic web pages with JavaScript
 [read04b](https://abu-nofal.github.io/reading-notes/read04b)|how the computer works 
 [read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops 
+[read04b](https://abu-nofal.github.io/reading-notes/read04b)|how the computer works 
+[read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops 
+
 
 
 

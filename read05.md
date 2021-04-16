@@ -44,3 +44,7 @@ while (condition)
 The condition test occurs before statement in the loop is executed. If the condition returns true, statement is executed and the condition is tested again. If the condition returns false, execution stops, and control is passed to the statement following while.
 
 To execute multiple statements, use a block statement ({ ... }) to group those statements.
+
+
+
+[refrance:  JavaScript](https://drive.google.com/file/d/1KFKjXZMEVY5OIxIUcUlCzCxCvZvr529K/view)
