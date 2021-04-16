@@ -15,10 +15,14 @@ file name  | discription
 [read04b](https://abu-nofal.github.io/reading-notes/read04b)|how the computer works 
 [read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops 
 
+
+
+
+
  
 
 > i learnd to linking batween the two sites replit and github 
 and make change and save it every time a change any thing 
-and for the change i can wright why a make change 
+and for the change i can write why a make change 
 
 > and i am so excited for the next step 
