@@ -15,7 +15,9 @@ file name  | discription
 [read04b](https://abu-nofal.github.io/reading-notes/read04b)|how the computer works 
 [read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops 
 [read04b](https://abu-nofal.github.io/reading-notes/read04b)|how the computer works 
-[read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops 
+[read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops
+ [read06](https://abu-nofal.github.io/reading-notes/read06)|
+ [read07](https://abu-nofal.github.io/reading-notes/read07)|Design web pages with CSS
 
 
 
