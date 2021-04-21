@@ -15,8 +15,11 @@ file name  | discription
 [read04b](https://abu-nofal.github.io/reading-notes/read04b)|how the computer works 
 [read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops 
 [read04b](https://abu-nofal.github.io/reading-notes/read04b)|how the computer works 
-[read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops 
-
+[read05](https://abu-nofal.github.io/reading-notes/read05)|Operators and Loops
+ [read06](https://abu-nofal.github.io/reading-notes/read06)|Programming with JavaScript
+ [read07](https://abu-nofal.github.io/reading-notes/read07)|Design web pages with CSS
+ [read09](https://abu-nofal.github.io/reading-notes/read09)|What is a text editor?
+ 
 
 
 
