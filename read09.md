@@ -147,5 +147,7 @@ Linux actually has a very simple and elegant mechanism for specifying that a fil
 
 To make a file or directory hidden all you need to do is create the file or directory with it's name beginning with a . or rename it to be as such. Likewise you may rename a hidden file to remove the . and it will become unhidden. The command ls which we have seen in the previous section will not list hidden files and directories by default. We may modify it by including the command line option -a so that it does show hidden files and directories.
 
+[refrance](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
 
 
